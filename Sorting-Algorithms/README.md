@@ -6,9 +6,9 @@ If you are testing multiple sorting algorithms and want to compare the speed, th
 ## Sorting stats
 | Name           | Space Complexity | Best Case Time Complexity | Average Case Time Complexity | Worst Case Time Complexity | Stability |
 | :------------: | :--------------: | :-----------------------: | :--------------------------: | :------------------------: | :-------: | 
-| Bubble Sort    | O()              | O()                       | O()                          | O()                        | Yes       |
-| Heap Sort      | O()              | O()                       | O()                          | O()                        | No        |
-| Merge Sort     | O()              | O()                       | O()                          | O()                        | Yes       |
-| Quick Sort     | O()              | O()                       | O()                          | O()                        | No        |
-| Insertion Sort | O()              | O()                       | O()                          | O()                        | Yes       |
-| Selection Sort | O()              | O()                       | O()                          | O()                        | No        |
+| Bubble Sort    | O(1)             | O(n)                      | O(n^2)                       | O(n^2)                     | Yes       |
+| Heap Sort      | O(1)             | O(nlogn)                  | O(nlogn)                     | O(nlogn)                   | No        |
+| Merge Sort     | O(n)             | O(nlogn)                  | O(nlogn)                     | O(nlogn)                   | Yes       |
+| Quick Sort     | O(logn)          | O(nlogn)                  | O(nlogn)                     | O(n^2)                     | No        |
+| Insertion Sort | O(1)             | O(n)                      | O(n^2)                        | O(n^2)                    | Yes       |
+| Selection Sort | O(1)             | O(n^2)                    | O(n^2)                        | O(n^2)                    | No        |
