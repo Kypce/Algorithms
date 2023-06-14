@@ -3,6 +3,9 @@
 For each file, there is an array size and seed global variable at the top. These can be changed to set the array size or the seed.
 If you are testing multiple sorting algorithms and want to compare the speed, the seed should be set to the same for all of them.
 
+Specific information regarding an overview of how the sorting algorithm works can be found in the comment block at the top of the each 
+respective code.
+
 ## Sorting stats
 | Name           | Space Complexity | Best Case Time Complexity | Average Case Time Complexity | Worst Case Time Complexity | Stability |
 | :------------: | :--------------: | :-----------------------: | :--------------------------: | :------------------------: | :-------: | 
