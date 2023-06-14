@@ -8,9 +8,7 @@
  * Stability: Yes
  * 
  * How it works . . .
- *  - The array will be split into two regions (sorted and unsorted). The entire array will be searched through for the current minimum.
- *      - It will then put the current minimum into the current position in sorted section
- *      - This process is repeated until the entire array is sorted.
+ *  - 
 */
 
 #include <chrono>
