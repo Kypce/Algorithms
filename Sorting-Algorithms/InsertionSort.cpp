@@ -8,7 +8,10 @@
  * Stability: Yes
  * 
  * How it works . . .
- *  - 
+ *  - The array will be split into two regions (sorted and unsorted). The first element will be automatically put into the sorted region.
+ *      - From here, the second element is inspected and placed in the correct position in the sorted region. This is done by comparing element by
+ *        element of the element to sorted and the elements of the sorted region.
+ *  - This process is repeated then through the entire array.
 */
 
 #include <chrono>
