@@ -1,4 +1,4 @@
-/** INSERTION SORT INFORMATION
+/** BUBBLE SORT INFORMATION
  * Space Complexity: O(1)
  * 
  * Best Case Time Complexity: O(n)
