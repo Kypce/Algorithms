@@ -22,5 +22,7 @@ This image shows the result of using a stable algorithm. Here it is first sorted
 
 <img width="382" alt="image" src="https://github.com/Kypce/Algorithms/assets/69166331/7f8e0fb8-39b4-4cb2-8e38-46baefb4a8f2">
 
+
 This image shows the result of using an unstable algorithm. Here the alphabetical sorting is lost once it is sorted by grade.
+
 <img width="383" alt="image" src="https://github.com/Kypce/Algorithms/assets/69166331/05a5e4fa-9130-4893-b1bf-458a7b722110">
